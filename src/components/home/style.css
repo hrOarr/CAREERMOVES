@@ -1,0 +1,25 @@
+.containercss2{
+	padding: 4% 4%;
+	background-color: white;
+}
+.containercss2 span{
+	font-size: 22px;
+	font-weight: 600;
+	color: #4C5F7E;
+}
+.containercss2 b{
+	font-size: 16px;
+	padding-left: 4%;
+     padding-bottom: 1%;
+	font-weight: 480;
+	text-decoration: underline;
+}
+.containercss2 p{
+     padding-left: 4%;
+     padding-bottom: 1%;
+     font-size: 16px;
+     font-weight: 480;
+}
+.containercss2 ul{
+	padding: 1% 4%;
+}
